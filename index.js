@@ -1,5 +1,6 @@
 $(document).ready(function(){ 
  //INSERT CODE HERE
+ 
 
  //QUESTION 1
  //Define a 'dog' Class
