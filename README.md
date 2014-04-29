@@ -1,4 +1,4 @@
-homework2
-=========
+ctc-decal-hw2
+=============
 
-homework2
+HW2 for Code the Change Decal
