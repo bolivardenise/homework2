@@ -4,6 +4,7 @@ $(document).ready(function(){
 
  //QUESTION 1
  //Define a 'dog' Class
+ 
  var Dog = (name)
  var ShibaInu = Dog.prototype.bark = function ()
 	 alert ("woof");};
